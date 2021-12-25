@@ -10,7 +10,7 @@ This repo contains my projects related to computer or machine vision.
 
 ## Examples:
 * CNNs Classifiers
-* CNNs different Architectures 
+* CNNs different Architectures
 * CNNs combined with RNNs
 * Deep Convolutional GANs
 * Autoencoders
@@ -18,4 +18,37 @@ This repo contains my projects related to computer or machine vision.
 
 ## License:
 ---
+
+## Projects:
+
+### CNNs Classifiers:
+  * Dog Breed Classifier
+  * Fake & Real faces Classifier
+  * Character Classifier
+
+
+### Transfer Learning:
+  * 
+  * 
+
+
+### Autoencoders:
+  * 
+  * 
+
+
+### CNNs combined with RNNs:
+  * 
+  * 
+
+
+### Deep Convolutional GANs:
+  * 
+  * 
+
+
+### Different CNNs Architectures:
+  * ResNet
+  * VGG-16
+  * [AlexNet]
 
