@@ -50,7 +50,7 @@ This repo contains my projects related to computer or machine vision.
 ### Different CNNs Architectures:
   * ResNet
   * VGG-16
-  * [AlexNet]
+  * [AlexNet]()
 
 
 ## Sources to Learn Computer Vision:
