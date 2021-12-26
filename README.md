@@ -17,7 +17,7 @@ This repo contains my projects related to computer or machine vision.
 * Transfer Learning Examples
 
 ## License:
----
+
 
 ## Projects:
 
