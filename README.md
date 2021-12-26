@@ -52,3 +52,14 @@ This repo contains my projects related to computer or machine vision.
   * VGG-16
   * [AlexNet]
 
+
+## Sources to Learn Computer Vision:
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
