@@ -1,5 +1,5 @@
 # Computer Vision
-This repo contains my projects related to computer or machine vision, which are made with open source librariess in python like **OpenCV**, **Tensorflow**, and **Pytorch**, etc...
+This repo contains my projects related to computer or machine vision, which are made with open source libraries in python like **OpenCV**, **Tensorflow**, **Pytorch**, and more.
 
 ## Most used Packages in this repo:
 * Tensorflow
