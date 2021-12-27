@@ -1,4 +1,4 @@
-# Computer_Vision
+# Computer Vision
 This repo contains my projects related to computer or machine vision.
 
 ## Most used Packages in this repo:
