@@ -28,6 +28,7 @@ This repo contains my projects related to computer or machine vision, which are 
   * Character Classifier
   * [Face Mask Detection with Tensorflow](https://github.com/KarimElshetihy/Face_Mask_Detection_with_Tensorflow.git)
   * [Social Distancing Violation Detector](https://github.com/KarimElshetihy/Social_Distancing_Violation_Detector_with_OpenCV.git)
+  * [Object Detection using MobileNet](https://github.com/KarimElshetihy/Object_Detection_using-_MobileNet.git)
 
 
 ### Transfer Learning:
