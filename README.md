@@ -26,6 +26,7 @@ This repo contains my projects related to computer or machine vision, which are 
   * Dog Breed Classifier
   * Fake & Real faces Classifier
   * Character Classifier
+  * [Face Mask Detection with Tensorflow](https://github.com/KarimElshetihy/Face_Mask_Detection_with_Tensorflow.git)
 
 
 ### Transfer Learning:
