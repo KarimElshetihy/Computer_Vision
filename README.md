@@ -18,7 +18,7 @@ This repo contains my projects related to computer or machine vision, which are 
 * Transfer Learning Examples
 
 ## License:
-
+Every project will has its own license depending on the resources of each, and the facility which the project is directed to. 
 
 ## Projects:
 
@@ -31,9 +31,9 @@ This repo contains my projects related to computer or machine vision, which are 
   * [Object Detection using MobileNet](https://github.com/KarimElshetihy/Object_Detection_using-_MobileNet.git)
 
 
-### Transfer Learning:
-  * 
-  * 
+//### Transfer Learning:
+//  * 
+//  * 
 
 
 ### Autoencoders:
