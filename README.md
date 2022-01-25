@@ -9,6 +9,7 @@ This repo contains my projects related to computer or machine vision, which are 
 * PIL (Pillow)
 * Scikit Learn 
 
+
 ## Examples:
 * CNNs Classifiers
 * CNNs different Architectures
@@ -17,44 +18,9 @@ This repo contains my projects related to computer or machine vision, which are 
 * Autoencoders
 * Transfer Learning Examples
 
+
 ## License:
 Every project will has its own license depending on the resources of each, and the facility which the project is directed to. 
-
-## Projects:
-
-### CNNs Classifiers:
-  * Dog Breed Classifier
-  * Fake & Real faces Classifier
-  * Character Classifier
-  * [Face Mask Detection with Tensorflow](https://github.com/KarimElshetihy/Face_Mask_Detection_with_Tensorflow.git)
-  * [Social Distancing Violation Detector](https://github.com/KarimElshetihy/Social_Distancing_Violation_Detector_with_OpenCV.git)
-  * [Object Detection using MobileNet](https://github.com/KarimElshetihy/Object_Detection_using-_MobileNet.git)
-
-
-//### Transfer Learning:
-//  * 
-//  * 
-
-
-### Autoencoders:
-  * 
-  * 
-
-
-### CNNs combined with RNNs:
-  * 
-  * 
-
-
-### Deep Convolutional GANs:
-  * 
-  * 
-
-
-### Different CNNs Architectures:
-  * ResNet
-  * VGG-16
-  * [AlexNet]()
 
 
 ## Sources to Learn Computer Vision:
@@ -65,3 +31,35 @@ Every project will has its own license depending on the resources of each, and t
 * [Computer Vision in Arabic Playlist - Ahmed Ebrahim](https://www.youtube.com/playlist?list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0)
 * Practical Applications [Computer Vision with Python Playlist - Rocket Systems](https://www.youtube.com/playlist?list=PLWw98q-Xe7iH8UHARl8RGk8MRj1raY4Eh)
 * Practical Applications [Computer Vision with Python - FreeCodeCamp](https://www.youtube.com/watch?v=01sAkU_NvOY) 
+
+
+## Projects:
+
+### CNNs Classifiers:
+  * Dog Breed Classifier
+  * Fake & Real Faces Classifier
+  * Character Classifier
+  * [Face Mask Detection with Tensorflow](https://github.com/KarimElshetihy/Face_Mask_Detection_with_Tensorflow.git)
+  * [Social Distancing Violation Detector](https://github.com/KarimElshetihy/Social_Distancing_Violation_Detector_with_OpenCV.git)
+  * [Object Detection using MobileNet](https://github.com/KarimElshetihy/Object_Detection_using-_MobileNet.git)
+
+
+### Autoencoders:
+  * MNIST
+  * Image Compression with PCA AutoEncoders
+  * Image Compression with Sparse AutoEncoders
+  * Image Compression with Convolutional Neural Networks AutoEncoders
+  * Image DeNoising Convolutional AutoEncoders
+  * Image Retrieval using Convolutional AutoEncoders and Nearest Neighbors
+  * Image Morphing using Convolutional AutoEncoders
+  * Image Generation using Variational AutoEncoders
+
+
+### CNNs combined with RNNs:
+  * Image Captioning
+  
+
+
+### Deep Convolutional GANs:
+  * Face Generation
+  
