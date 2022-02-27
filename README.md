@@ -36,9 +36,10 @@ Every project will has its own license depending on the resources of each, and t
 ## Projects:
 
 ### CNNs Classifiers:
-  * Dog Breed Classifier
-  * Fake & Real Faces Classifier
-  * Character Classifier
+  * [Pet Image Classifier - PyTorch Pre-Trained Model](https://github.com/KarimElshetihy/Pet-Image-Classifier.git)
+  * [Custom Dog Breed Classifier using PyTorch](https://github.com/KarimElshetihy/Custom-Dog-Breed-Classifier-using-PyTorch.git)
+  * [Fake & Real Faces Classifier]()
+  * [Character Classifier]()
   * [Face Mask Detection with Tensorflow](https://github.com/KarimElshetihy/Face_Mask_Detection_with_Tensorflow.git)
   * [Social Distancing Violation Detector](https://github.com/KarimElshetihy/Social_Distancing_Violation_Detector_with_OpenCV.git)
   * [Object Detection using MobileNet](https://github.com/KarimElshetihy/Object_Detection_using-_MobileNet.git)
