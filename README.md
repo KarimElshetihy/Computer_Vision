@@ -64,4 +64,5 @@ Every project will has its own license depending on the resources of each, and t
 
 ### Deep Convolutional GANs:
   * Face Generation
+  * Whole Body Generation using GANs
   
