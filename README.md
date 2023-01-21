@@ -4,10 +4,12 @@ This repo contains my projects related to computer or machine vision, which are 
 
 ## Most used Packages in this repo:
 * Tensorflow
+* TensorFlow Lite
 * OpenCV
 * Pytorch
 * PIL (Pillow)
 * Scikit Learn 
+* Mediapipe
 
 
 ## Examples:
